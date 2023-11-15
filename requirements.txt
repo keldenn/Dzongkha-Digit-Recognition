@@ -3,7 +3,7 @@ streamlit_lottie
 streamlit_drawable_canvas
 numpy
 matplotlib
-tensorflow
+tensorflow==2.14.0
 pandas
 scipy
 
