@@ -1,2 +1,8 @@
 # Dzongkha-Digit-Recognition
-Predicts your written dzongkha digits!
+This system will recognize your dzongkha digit. 
+
+# Installation
+pip install -r requirements.txt
+
+# Running Localy
+streamlit run app.py
